@@ -1,5 +1,5 @@
 # Mon exercice
-Liste : [title] (https://fr.wikipedia.org/wiki/Liste_de_suffragistes_et_suffragettes )
+Liste : (https://fr.wikipedia.org/wiki/Liste_de_suffragistes_et_suffragettes )
 
 ## problématique
 Dans quelle mesure les différentes formes de capital (social, culturel, économique et politique) ont-elles favorisé l’engagement des femmes dans le mouvement suffragiste et leur accès à des positions influentes au sein du champ féministe international ?
