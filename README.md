@@ -48,13 +48,14 @@ Pour chaque personne collecter les infos suivantes :
 - Statut matrimonial
   
 **6. Activisme**
--	Type d’action :
+- Fonctions dirigeantes dans des organisations
+- Type d’action :
    - Pétitions
    - Publications
    - Manifestations
    - Politique institutionnelle
    - Désobéissance civile
-- Fonctions dirigeantes dans des organisations
+
 
 
 ## Cheat sheet markdown
