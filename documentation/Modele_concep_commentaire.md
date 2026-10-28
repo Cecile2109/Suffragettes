@@ -10,7 +10,7 @@ Le modèle conceptuel a été construit afin de collecter et structurer les info
 
 # Présentation générale du modèle
 
-Le modèle est organisé autour de l'entité centrale **Suffragiste**, qui représente chaque militante étudiée.
+Le modèle est organisé autour de la classe centrale **Suffragiste**, qui représente chaque militante étudiée.
 
 Autour de cette entité principale on retrouve plusieurs entités permettant de documenter :
 
@@ -25,9 +25,9 @@ Cette structure permet d'établir des comparaisons entre les militantes, les pay
 
 ---
 
-# Entité Suffragiste
+# Classe Suffragiste
 
-L'entité **Suffragiste** constitue le cœur du modèle.
+La classe **Suffragiste** constitue le cœur du modèle.
 
 Elle regroupe les informations suivantes :
 
@@ -48,7 +48,7 @@ Ces variables permettent de comparer les profils sociaux des militantes et d'ide
 
 ---
 
-# Entité Profession
+# Classe Profession
 
 L'entité **Profession** est utilisée pour enregistrer l'activité professionnelle principale de chaque suffragiste.
 
@@ -68,7 +68,7 @@ Cette entité constitue un indicateur important du capital culturel.
 
 ---
 
-# Entité Organisation
+# Classe Organisation
 
 L'entité **Organisation** permet de documenter les différents réseaux auxquels les militantes appartiennent.
 
@@ -83,7 +83,7 @@ L'analyse de ces affiliations permet d'étudier le capital social des suffragist
 
 ---
 
-# Entité Fonction dirigeante
+# Classe Fonction dirigeante
 
 L'entité **Fonction dirigeante** enregistre les responsabilités assumées par les militantes au sein des organisations.
 
@@ -102,7 +102,7 @@ Cette entité répond directement à la question portant sur l'accès à des pos
 
 ---
 
-# Entité Type d'action
+# Classe Type d'action
 
 L'entité **Type d'action** sert à décrire les formes d'engagement politique pratiquées par les suffragistes.
 
@@ -118,7 +118,7 @@ Cette information permet d'analyser les stratégies militantes privilégiées pa
 
 ---
 
-# Entité Famille
+# Classe Famille
 
 L'entité **Famille** documente l'environnement familial de chaque militante.
 
@@ -134,7 +134,7 @@ Elle contribue également à comprendre l'influence éventuelle de la famille su
 
 ---
 
-# Relations entre les entités
+# Relations entre les classes
 
 ## Relation « exerce »
 
