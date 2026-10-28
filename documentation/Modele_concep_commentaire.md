@@ -176,6 +176,18 @@ Elle contribue à l'étude des déterminants sociaux de l'engagement militant.
 
 ---
 
+# Cardinalités
+permettent d'indiquer combien d'occurrences d'une entité peuvent être liées à une autre.
+
+écrites comme cela (nb minimum de liens, nb maximum de liens)
+
+(0,n) - 0 = facultatif / n = autent que nécessaire
+(1,n) - 1 = obligatoire
+(1,1)
+(0,1)
+
+Cardinalité minimale indique si une relation est obligatoire ou facultative. La cardinalité maximale indique le nombre maximal d'occurences pouvant être associées. Les cardinalités ont été définies d'après les caractéristiques du mouvement suffragiste et les informations nécessaires à la recherche.
+
 # Justification du modèle
 
 Le modèle a été volontairement simplifié afin de ne conserver que les informations directement utiles à la problématique de recherche.
